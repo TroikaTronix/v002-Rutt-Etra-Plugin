@@ -1,0 +1,275 @@
+// !$*UTF8*$!
+{
+	089C1669FE841209C02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = F2671FBC1285707900D03EFF /* IsadoraCore */;
+		activeTarget = 8D01CCC60486CAD60068D4B7 /* IsadoraDemoPlugin */;
+		breakpoints = (
+		);
+		codeSenseManager = F2671FBB1285703B00D03EFF /* Code sense */;
+		executables = (
+			F2671FBC1285707900D03EFF /* IsadoraCore */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXBookmarksDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBookmarksDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					200,
+					150.58349609375,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBookmarksDataSource_LocationID,
+					PBXBookmarksDataSource_NameID,
+					PBXBookmarksDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					702,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					814,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.XCSCMDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					790,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_SCM_ColumnID,
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					774,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 401401834;
+			PBXWorkspaceStateSaveDate = 401401834;
+		};
+		perUserProjectItems = {
+			F2FAEE1017ECE69E0054F8D0 /* PBXTextBookmark */ = F2FAEE1017ECE69E0054F8D0 /* PBXTextBookmark */;
+			F2FAEE1117ECE69E0054F8D0 /* PBXTextBookmark */ = F2FAEE1117ECE69E0054F8D0 /* PBXTextBookmark */;
+			F2FAEE1317ECE69E0054F8D0 /* PBXTextBookmark */ = F2FAEE1317ECE69E0054F8D0 /* PBXTextBookmark */;
+			F2FAEE2B17ECE8170054F8D0 /* PBXTextBookmark */ = F2FAEE2B17ECE8170054F8D0 /* PBXTextBookmark */;
+			F2FAEE3C17ECE8AE0054F8D0 /* PBXTextBookmark */ = F2FAEE3C17ECE8AE0054F8D0 /* PBXTextBookmark */;
+		};
+		sourceControlManager = F2671FBA1285703B00D03EFF /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	32BAE0B30371A71500C91783 /* IsadoraPluginPrefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {992, 461}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 142}";
+		};
+	};
+	8D01CCC60486CAD60068D4B7 /* IsadoraDemoPlugin */ = {
+		activeExec = 0;
+	};
+	F2671FBA1285703B00D03EFF /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	F2671FBB1285703B00D03EFF /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	F2671FBC1285707900D03EFF /* IsadoraCore */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+			"PBXLSLaunchAction-0" = {
+				PBXLSLaunchAction = 0;
+				PBXLSLaunchStartAction = 1;
+				PBXLSLaunchStdioStyle = 2;
+				PBXLSLaunchStyle = 0;
+				class = PBXLSRunLaunchConfig;
+				commandLineArgs = (
+				);
+				displayName = "Executable Runner";
+				environment = {
+				};
+				identifier = com.apple.Xcode.launch.runConfig;
+				remoteHostInfo = "";
+				startActionInfo = "";
+			};
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		launchableReference = F2671FBD1285707900D03EFF /* IsadoraCore.app */;
+		libgmallocEnabled = 0;
+		name = IsadoraCore;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	F2671FBD1285707900D03EFF /* IsadoraCore.app */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = wrapper.application;
+		name = IsadoraCore.app;
+		path = /Applications/Isadora/IsadoraCore.app;
+		sourceTree = "<absolute>";
+	};
+	F2D2B6920BB25AA900501B82 /* IsadoraPlugin.cp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {992, 12292}}";
+			sepNavSelRange = "{17103, 0}";
+			sepNavVisRange = "{16655, 1541}";
+			sepNavWindowFrame = "{{15, 118}, {1116, 755}}";
+		};
+	};
+	F2FAEE1017ECE69E0054F8D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32BAE0B30371A71500C91783 /* IsadoraPluginPrefix.pch */;
+		name = "IsadoraPluginPrefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 142;
+		vrLoc = 0;
+	};
+	F2FAEE1117ECE69E0054F8D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F2FAEE1217ECE69E0054F8D0 /* IsadoraTypes.h */;
+		name = "IsadoraTypes.h: 248";
+		rLen = 44;
+		rLoc = 9476;
+		rType = 0;
+		vrLen = 1777;
+		vrLoc = 8525;
+	};
+	F2FAEE1217ECE69E0054F8D0 /* IsadoraTypes.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = IsadoraTypes.h;
+		path = /Developer/IsadoraSDK/IsadoraLib/Includes/IsadoraTypes.h;
+		sourceTree = "<absolute>";
+	};
+	F2FAEE1317ECE69E0054F8D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F2FAEE1417ECE69E0054F8D0 /* MessageReceiverCommon.h */;
+		name = "MessageReceiverCommon.h: 141";
+		rLen = 113;
+		rLoc = 5973;
+		rType = 0;
+		vrLen = 2452;
+		vrLoc = 4120;
+	};
+	F2FAEE1417ECE69E0054F8D0 /* MessageReceiverCommon.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = MessageReceiverCommon.h;
+		path = /Developer/IsadoraSDK/IsadoraLib/Includes/MessageReceiverCommon.h;
+		sourceTree = "<absolute>";
+	};
+	F2FAEE2B17ECE8170054F8D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F2D2B6920BB25AA900501B82 /* IsadoraPlugin.cp */;
+		name = "IsadoraPlugin.cp: 192";
+		rLen = 1;
+		rLoc = 6928;
+		rType = 0;
+		vrLen = 1002;
+		vrLoc = 19075;
+	};
+	F2FAEE3C17ECE8AE0054F8D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F2D2B6920BB25AA900501B82 /* IsadoraPlugin.cp */;
+		name = "IsadoraPlugin.cp: 459";
+		rLen = 0;
+		rLoc = 17103;
+		rType = 0;
+		vrLen = 1541;
+		vrLoc = 16655;
+	};
+}
