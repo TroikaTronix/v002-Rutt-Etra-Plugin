@@ -5,6 +5,12 @@
 //	created by Vade
 //	adapted for Isadora by Mark Coniglio
 //
+//	This code is covered by the following Creative Commons license
+//
+//	Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)
+//
+//	https://creativecommons.org/licenses/by-nc-sa/3.0/
+//
 // ===========================================================================
 
 //
