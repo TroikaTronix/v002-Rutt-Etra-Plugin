@@ -1,4 +1,4 @@
-# **v002-Rutt-Etra-Plugin
+# **v002-Rutt-Etra-Plugin**
 
 Isadora port of the v002 Rutt Etra Plugin by vade
 
