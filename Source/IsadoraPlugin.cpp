@@ -1260,18 +1260,23 @@ ProcessTextureImages(
 						IzzyTexture pointSpriteImage = NULL;
 						
 						if (info->mv->mVideoInputArray != NULL) {
+						
 							if (info->mv->mVideoInputArray[0].GetTextureImageInput() != NULL) {
 								mainImage = info->mv->mVideoInputArray[0].GetTextureImageInput()->mTexture;
 							}
+							
 							if (info->mv->mVideoInputArray[1].GetTextureImageInput() != NULL) {
 								displaceImage = info->mv->mVideoInputArray[1].GetTextureImageInput()->mTexture;
 							}
+							
 							if (info->mv->mVideoInputArray[2].GetTextureImageInput() != NULL) {
 								pointSpriteImage = info->mv->mVideoInputArray[2].GetTextureImageInput()->mTexture;
 							}
 						}
 						
-						info->mRuttEtra->Execute(mainImage, displaceImage, pointSpriteImage);
+						if (mainImage != NULL) {
+							info->mRuttEtra->Execute(mainImage, displaceImage, pointSpriteImage);
+						}
 					}
 				
 					TextureBufferPtr outputBuffer = UnbindIzzyFrameBuffer_(ip, inActorInfo, fboOut);

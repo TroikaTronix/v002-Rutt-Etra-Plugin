@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F3B60AFE-0E60-4354-83F9-95407A3274FD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>v002 Rutt Etra</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0E94CA44A0DA8FD142BF5012EE90A2BCEF9CBD68</key>
+		<string>https://github.com/TroikaTronix/v002-Rutt-Etra-Plugin.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>v002 Rutt Etra.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0E94CA44A0DA8FD142BF5012EE90A2BCEF9CBD68</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/TroikaTronix/v002-Rutt-Etra-Plugin.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0E94CA44A0DA8FD142BF5012EE90A2BCEF9CBD68</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0E94CA44A0DA8FD142BF5012EE90A2BCEF9CBD68</string>
+			<key>IDESourceControlWCCName</key>
+			<string>v002-Rutt-Etra-Plugin</string>
+		</dict>
+	</array>
+</dict>
+</plist>
